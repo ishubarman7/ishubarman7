@@ -117,14 +117,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=@ishubarman7" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<br clear="both">
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ishubarman7.ishubarman7&right_color=coral"  />
 
 ###
