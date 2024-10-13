@@ -111,7 +111,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ishubarman7/ishubarman7/github-user-contribution (1).svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ishubarman7/ishubarman7/blob/main/github-user-contribution%20(1).svg" alt="Snake animation" />
 
 ###
 
