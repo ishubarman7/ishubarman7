@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👦🏻Hi there! I'm Ishu Barman, a passionate CSE student specializing in [Python, C, C++, HTML, CSS, Java] 🧑🏻‍💻Proficient in Python, HTML, CSS and C+</p>
+<h3 align="left">👦🏻Hi there! I'm Ishu Barman, a passionate CSE student specializing in [Python, C, C++, HTML, CSS, Java] 🧑🏻‍💻Proficient in Python, HTML, CSS and C+</h3>
 
 ###
 
