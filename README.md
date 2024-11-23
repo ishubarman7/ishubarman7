@@ -1,7 +1,8 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ishubarman7.ishubarman7&right_color=coral"  />
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVuZzM0NHVta215YTMzazA4ZWN6enM0dnY1aGRkeXR1ankyYmtoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmkqbEv2oWPCwyxsQX/giphy.gif"  />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ishubarman7.ishubarman7&right_color=coral"  />
+  <br clear="both">
+  <img align="center" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVuZzM0NHVta215YTMzazA4ZWN6enM0dnY1aGRkeXR1ankyYmtoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmkqbEv2oWPCwyxsQX/giphy.gif"  />
 </div>
 
 ###
@@ -10,7 +11,7 @@
 
 ###
 
-<h3 align="left">👦🏻Hi there! I'm Ishu Barman, a passionate CSE student specializing in [Python, C, C++, HTML, CSS, Java] 🧑🏻‍💻Proficient in Python, HTML, CSS and C+</h3>
+<p align="left">👦🏻Hi there! I'm Ishu Barman, a passionate CSE student specializing in [Python, C, C++, HTML, CSS, Java] 🧑🏻‍💻Proficient in Python, HTML, CSS and C+</p>
 
 ###
 
@@ -24,7 +25,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻Key Skills, Tools & Technologies</p>
+<h4 align="left">👨🏻‍💻Key Skills, Tools & Technologies</h4>
 
 ###
 
@@ -78,7 +79,7 @@
 
 ###
 
-<p align="left">🤝 Connect on Social Medias</p>
+<h4 align="left">🤝 Connect on Social Medias</h4>
 
 ###
 
