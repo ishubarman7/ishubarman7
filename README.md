@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">👨🏻‍💻Key Skills, Tools & Technologies</h4>
+<h4 align="left">👨🏻‍💻Key Skills, Tools & Technologies </h4>
 
 ###
 
