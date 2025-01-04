@@ -94,7 +94,7 @@
   <a href="https://www.instagram.com/stories/ishu.barman.7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="101" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbhvHwGgPvLsXgdZFJXFtngPWJQnhJHPxsDQqTDxQMhLltJWplPvDjWnmrhWBnqlZznQq" target="_blank">
+  <a href="mailto:ishu.barman9067900@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="101" height="40" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Ishubarman7" target="_blank">
